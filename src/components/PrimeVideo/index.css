@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.prime-flex {
+  height: 200px;
+  width: 100vw;
+}
+.main-container {
+  background-color: #000000;
+  color: white;
+  font-family: 'Roboto';
+  width: 100%;
+}
+.movies-container {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 100px;
+}
